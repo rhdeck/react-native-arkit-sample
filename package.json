@@ -14,7 +14,7 @@
     "react-native-fix-ios-version": "^1.0.0",
     "react-native-pod": "rhdeck/react-native-pod",
     "react-native-runios-withdevteam": "^1.2.0",
-    "react-native-sample": "/Users/ray/Documents/GitHub/react-native-sample"
+    "react-native-sample": "^1.1.0"
   },
   "devDependencies": {
     "babel-jest": "21.2.0",
