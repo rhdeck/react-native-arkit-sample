@@ -9,6 +9,7 @@
   "dependencies": {
     "react": "16.0.0",
     "react-native": "0.51.0",
+    "react-native-arkit": "rhdeck/react-native-arkit",
     "react-native-bundlebase": "^1.0.0",
     "react-native-camera-ios-enable": "^1.0.0",
     "react-native-fix-ios-version": "^1.0.0",
